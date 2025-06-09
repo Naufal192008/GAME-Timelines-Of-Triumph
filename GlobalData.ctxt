@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GlobalData
+comment1.params=namaLevel
+comment1.target=void\ selesaikanLevel(java.lang.String)
+comment2.params=
+comment2.target=boolean\ semuaArtefakDibeli()
+comment3.params=jumlah
+comment3.target=void\ tambahPoin(int)
+comment4.params=nama
+comment4.target=boolean\ beliArtefak(java.lang.String)
+comment5.params=nama
+comment5.target=int\ getHargaArtefak(java.lang.String)
+comment6.params=
+comment6.target=void\ reset()
+numComments=7

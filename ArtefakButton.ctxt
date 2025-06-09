@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArtefakButton
+comment1.params=nama\ gambar
+comment1.target=ArtefakButton(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ handleClick()
+comment4.params=
+comment4.target=void\ onPembelianBerhasil()
+comment5.params=
+comment5.target=void\ updateGambar()
+numComments=6

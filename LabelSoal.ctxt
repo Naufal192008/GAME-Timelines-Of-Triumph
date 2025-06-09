@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LabelSoal
+comment1.params=text
+comment1.target=LabelSoal(java.lang.String)
+comment2.params=text
+comment2.target=greenfoot.GreenfootImage\ buatGambarMultiline(java.lang.String)
+numComments=3

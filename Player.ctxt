@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment2.params=darah
+comment2.target=Player(DarahPlayer)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ checkHit()
+comment6.params=
+comment6.target=void\ updateHPDisplay()
+comment7.params=
+comment7.target=void\ gameOver()
+comment8.params=
+comment8.target=int\ getHP()
+comment9.params=newHP
+comment9.target=void\ setHP(int)
+numComments=10

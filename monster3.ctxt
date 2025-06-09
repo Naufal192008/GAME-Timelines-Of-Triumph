@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=monster3
+comment1.params=
+comment1.target=monster3()
+comment2.params=darahMonster
+comment2.target=monster3(DarahMonster)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=jumlah
+comment5.target=void\ kurangiDarah(int)
+comment6.params=
+comment6.target=int\ getDarah()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BGMPlayer
+comment1.params=
+comment1.target=void\ playLoop()
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=
+comment3.target=void\ pause()
+comment4.params=
+comment4.target=void\ resume()
+numComments=5

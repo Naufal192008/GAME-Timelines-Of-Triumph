@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=halaman_LEVELBONUS
+comment1.params=
+comment1.target=halaman_LEVELBONUS()
+comment10.params=
+comment10.target=void\ prepare()
+comment10.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ acakPertanyaan()
+comment6.params=
+comment6.target=void\ tampilkanPertanyaan()
+comment7.params=input
+comment7.target=void\ prosesJawaban(java.lang.String)
+comment8.params=
+comment8.target=void\ showVSImage()
+comment9.params=
+comment9.target=void\ nextLevel()
+numComments=11

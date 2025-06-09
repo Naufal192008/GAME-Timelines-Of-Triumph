@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TextInput
+comment1.params=
+comment1.target=TextInput()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=java.lang.String\ getInput()
+comment5.params=
+comment5.target=void\ clearInput()
+numComments=6

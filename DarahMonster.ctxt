@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DarahMonster
+comment1.params=
+comment1.target=DarahMonster()
+comment2.params=nyawa
+comment2.target=void\ setHP(int)
+comment3.params=
+comment3.target=int\ getHP()
+numComments=4
