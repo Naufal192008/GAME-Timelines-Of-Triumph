@@ -21,5 +21,6 @@ Game edukasi sejarah Indonesia buatan saya menggunakan Greenfoot.
 
 ---
 
-✨ Dibuat oleh: Naufal  
+✨ Dibuat oleh: NAUFAL DAN TIM
+
 📅 Tahun: 2025  
